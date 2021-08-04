@@ -24,11 +24,11 @@ ___________________________
 How to create cards:
 
 You can add up to 9 options, but I've only put fields for 4 in the examples. You can just add fields called "Option5", "Option6", etc.
-If only one answer will be correct, just write the number of the answer in the "Answer" field. For example, if the 3rd option is right, just type "3" in the "Answer" field. The card will flip automatically and show you if your answer was correct once you click on an option.
+If only one answer will be correct, just write the number of the answer in the "Answer" field. For example, if the 3rd option is right, just type "3" in the "Answer" field.
 
 <img src="https://i.ibb.co/fQq9jBB/single-Answer.png" alt="single-Answer" border="0">
 
-If there are multiple correct answers or if you don't want the card to flip automatically, type "1" for each right choice and "0" for each wrong choice in order. For example, type "1010" to indicate that the 1st is correct, the 2nd is wrong, the 3rd is correct and the 4th is wrong.
+If there are multiple correct answers, type "1" for each right choice and "0" for each wrong choice in order. For example, type "1010" to indicate that the 1st is correct, the 2nd is wrong, the 3rd is correct and the 4th is wrong.
 
 <img src="https://i.ibb.co/tqQBYKm/multiple-Answers.png" alt="multiple-Answers" border="0">
 
